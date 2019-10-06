@@ -2,6 +2,8 @@ Sempre antes de investir, procuro olhar na carteira recomendada da SUNO para ver
 
 Acontece que antes eu sempre tinha que ficar calculando essa difereça entre o preço atual e o teto. Como sou programador fiz um script que automatiza isso pra mim.
 
+![Exemplo](https://github.com/diogolmenezes/suno/blob/master/exemplo.png)
+
 # Como utilizar
 
 Crie um link no seu favoritos onde a URL seja
